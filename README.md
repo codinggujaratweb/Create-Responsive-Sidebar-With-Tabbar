@@ -1,5 +1,5 @@
 # 🔥 Create-Responsive-Sidebar-With-Tabbar
-## [Live Preview](https://amanayak.github.io/Create-Responsive-Sidebar-With-Tabbar/)
+## [Live Preview](https://codinggujaratweb.github.io/Create-Responsive-Sidebar-With-Tabbar/)
 ### 🔥 Responsive Sidebar Menu With Tab Bar
 
 - Responsive Sidebar Menu With Tab Bar Using HTML CSS & JavaScript.
